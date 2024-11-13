@@ -1,0 +1,7 @@
+Usage: Microsoft Copilot was used to assist in coding and provide guidance on structuring the Python program for the car rental management system. The specific areas where Copilot provided assistance include:
+
+Writing the functions to read from and write to the necessary files.
+
+Creating the functions for listing available cars, renting a car, returning a car, and counting the total income.
+
+Structuring the menu system for easy navigation and operation of the program.
